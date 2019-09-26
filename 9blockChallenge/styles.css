@@ -1,0 +1,25 @@
+body {
+ 
+}
+.row{
+display: flex;
+}
+.box{
+ width: 80px;
+ height: 80px;
+ background-color: #654321;
+
+}
+
+.darkbrown{
+background-color: #965b36;
+}
+.mediumbrown{
+background-color: #b96631;
+}
+.lightbrown{
+background-color: #e19260;
+}
+.tan{
+background-color: #f4d6c3;
+}
