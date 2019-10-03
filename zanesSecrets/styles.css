@@ -1,18 +1,66 @@
+.row{
+	display: flex;	
+}
 .lordsHouse{
-width: 80px;
-height: 90px;
+width: 200px;
+height: 199px;
 background-color: #9071a6;
 }
 .townHouse{
 	width: 35px;
 	height: 40px;
-	background-color: #876839
+	background-color: #876839;
 }
+.townHouse2{
+	width: 40px;
+	height: 45px;
+	background-color: #876839;
+	}
+	.townHouse3{
+	width: 40px;
+	height: 40px;
+	background-color: #876839;
+	}
+	.townHouse4{
+	width: 40px;
+	height: 43px;
+	background-color: #876839;
+	}
 .bush{
-	width: 4px;
-	height: 5px;
-	background-color: #a4b388
+	width: 30px;
+	height: 31px;
+	background-color: #a4b388;
+	margin-left: 90px;
+	margin-top: 190px;
 }
-.treeleavse{
-	
+.treeLeaves{
+	width: 60px;
+	height: 62px;
+	background-color: #2f632b;
+}
+.treeTrunk{
+	width: 30px;
+	height: 70px;
+	background-color: #634e2b;
+}
+.treeLeaves2{
+	width: 60px;
+	height: 62px;
+	background-color: #2f2e66;
+}
+.treeTrunk2{
+	width: 30px;
+	height: 70px;
+	background-color: #bdb09b;
+}
+.land{
+width: 1700px;
+height: 200px;
+background-color: #9be384;
+margin-right: 30px;
+}
+.hill{
+height: 200px;
+width: 299px;
+background-color: #83c76d;
 }
