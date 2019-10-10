@@ -6,46 +6,61 @@ width: 200px;
 height: 199px;
 background-color: #9071a6;
 }
+.lordsHouseRoof{
+width: 200px;
+height: 99px;
+background-color:#e3dfd5;
+}
 .townHouse{
 	width: 35px;
 	height: 40px;
 	background-color: #876839;
+	margin-left: 30px;
+	margin-top: 191px;
 }
 .townHouse2{
 	width: 40px;
 	height: 45px;
 	background-color: #876839;
+	margin-top: 186px;
+	margin-left: 20px;
 	}
 	.townHouse3{
 	width: 40px;
 	height: 40px;
 	background-color: #876839;
+	margin-top: 191px;
+	margin-left: 20px;
 	}
 	.townHouse4{
 	width: 40px;
 	height: 43px;
 	background-color: #876839;
+	margin-left: 50px;
+	margin-top: 188px;
 	}
 .bush{
 	width: 30px;
 	height: 31px;
 	background-color: #a4b388;
 	margin-left: 90px;
-	margin-top: 190px;
+	margin-top: 200px;
 }
 .treeLeaves{
-	width: 60px;
-	height: 62px;
+	width: 30px;
+	height: 31px;
 	background-color: #2f632b;
 }
 .treeTrunk{
-	width: 30px;
-	height: 70px;
+	width: 15px;
+	height: 60px;
 	background-color: #634e2b;
+	margin-top: 171px;
+	margin-left: 25px;
 }
 .treeLeaves2{
-	width: 60px;
-	height: 62px;
+	width: 30px;
+	height: 31px;
 	background-color: #2f2e66;
 }
 .treeTrunk2{
@@ -57,10 +72,21 @@ background-color: #9071a6;
 width: 1700px;
 height: 200px;
 background-color: #9be384;
-margin-right: 30px;
+margin-right: 200px;
 }
 .hill{
 height: 200px;
 width: 299px;
 background-color: #83c76d;
+margin-top: 31px;
+}
+.path{
+height: 150px;
+width: 30px;
+background-color:#e3d5b3;
+}
+.path2{
+height: 150px;
+width: 30px;
+background-color:#e3d5b3;
 }
